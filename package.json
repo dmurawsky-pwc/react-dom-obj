@@ -1,6 +1,6 @@
 {
   "name": "react-dom-obj",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Allows you to pass an object into ReactDOM",
   "main": "index.js",
   "scripts": {
