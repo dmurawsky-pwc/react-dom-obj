@@ -1,0 +1,30 @@
+[
+  {
+    "type": "h1",
+    "content": "ToDo List"
+  },
+  {
+    "type": "ul",
+    "params": {
+      "style": {
+        "listStyle": "none"
+      }
+    },
+    "content": [
+      {
+        "type": "li",
+        "content": [
+          { "type": "input", "params": { "type": "checkbox" } },
+          { "type": "span", "content": "Create interface for converting YAML to React DOM"}
+        ]
+      },
+      {
+        "type": "li",
+        "content": [
+          { "type": "input", "params": { "type": "checkbox" } },
+          { "type": "span", "content": "Create realtime interface with Firebase"}
+        ]
+      }
+    ]
+  }
+]
